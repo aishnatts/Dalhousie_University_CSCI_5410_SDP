@@ -1,9 +1,4 @@
-/**
- * Title: Connection Details to UserPool
- * Author: Sri Ramya Basam
- * Date: 2022/11/09
- * Availability: https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-user-identity-pools.html
- */
+
 import { CognitoUserPool } from "amazon-cognito-identity-js";
 
 const poolData = {
